@@ -30,4 +30,6 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+
+    namespace = 'org.leanflutter.plugins.flutter_tencent_captcha'
 }
